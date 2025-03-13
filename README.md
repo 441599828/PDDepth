@@ -12,3 +12,18 @@ For more details on the terms of use, please consult the [DAIR Dataset Usage Pol
 
 ## Code Status
 The code for this project is currently being organized and refined. We are working diligently to ensure it is well-structured and ready for public use. We will update this repository as soon as the code is available.
+
+## Citation <a name="citation"></a>
+Please consider citing our paper if the project helps your research with the following BibTex:
+```bibtex
+@ARTICLE{10884545,
+  author={Wang, Huanan and Zhang, Xinyu and Chen, Zhengxian and Jun, Li and Liu, Huaping},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={PDDepth: Pose Decoupled Monocular Depth Estimation for Roadside Perception System}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2025.3541313}}
+}
+```
