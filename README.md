@@ -1,5 +1,5 @@
 # PDDepth
-Welcome to the GitHub repository for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) paper **PDDepth: Pose Decoupled Monocular Depth Estimation for Roadside Perception System**! Thank you for your interest in our work.
+Welcome to the GitHub repository for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) paper **"PDDepth: Pose Decoupled Monocular Depth Estimation for Roadside Perception System"**. Thank you for your interest in our work.
 
 ## Datasets
 We are pleased to announce that the **DAIR-Ins** and **DAIR-MDE** datasets are now openly available for download.
