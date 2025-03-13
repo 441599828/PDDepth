@@ -3,7 +3,7 @@ Welcome to the GitHub repository for IEEE Transactions on Circuits and Systems f
 
 ## Datasets
 We are pleased to announce that the **DAIR-Ins** and **DAIR-MDE** datasets are now openly available for download.
-**DAIR-Ins &amp; DAIR-MDE**: [Download link](https://pan.baidu.com/s/1LOqkhvazOXnISztZdoaKbw?pwd=s8ey)
+- **DAIR-Ins &amp; DAIR-MDE**: [Download link](https://pan.baidu.com/s/1LOqkhvazOXnISztZdoaKbw?pwd=s8ey)
 
 ### Usage Guidelines
 We are grateful for your interest in using these datasets. However, please note that they are provided under the **DAIR restrictions**. We kindly request that all users comply with these guidelines to ensure the datasets are used responsibly and ethically.
